@@ -1,2 +1,4 @@
-# blog-app-nodejs
-Blog de postagens em nodejs
+# blogapp
+Curso de NodeJs do Victor Lima
+
+OBS: AS AULAS DO CURSO ACABAM NO COMMIT "LOGOUT", APÓS ESSE SÃO MELHORIAS QUE EU ESTOU FAZENDO NO SISTEMA.
